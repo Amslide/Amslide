@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Amslide
+- 👀 I’m a programmer & graphic designer
+- 📫 contact me: amslide@protonmail.com
