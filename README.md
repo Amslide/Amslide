@@ -1,6 +1,4 @@
-- Hi, I’m Hafid Morales 
-- I’m a programmer & graphic designer and 
-- I'm currently creating a Javascript course for anyone to learn, regardless of the level of knowledge in programming, totally free.
-- Enjoy It
+- Hi, I’m Hafid Morales / programmer & graphic designer 
+- And I'm currently creating a Javascript course so that anyone can learn, no matter what level of programming knowledge they have, totally free. 
 - contact me: amslide@protonmail.com
 - instagram/behance/twitter/linkedin: @amslide
