@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Amslide
-- 👀 I’m a programmer & graphic designer
-- 📫 contact me: amslide@protonmail.com
+- Hi, I’m @Amslide
+- I’m a programmer & graphic designer and 
+- I am currently creating a Javascript course for anyone to learn, regardless of the level of knowledge in programming, totally free.
+- contact me: amslide@protonmail.com
+- instagram/behance/twitter/linkedin: @amslide
