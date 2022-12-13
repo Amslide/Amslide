@@ -1,4 +1,3 @@
-- Hi, I’m Hafid Morales / programmer & graphic designer 
-- And I'm currently creating a Javascript course so that anyone can learn, no matter what level of programming knowledge they have, totally free. 
-- contact me: amslide@protonmail.com
+- Hi, I’m Hafid Morales / programmer & graphic designer Atomicode's Founder
+- contact me: contacto@atomicodemx.com
 - instagram/behance/twitter/linkedin: @amslide
