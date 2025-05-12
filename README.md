@@ -1,3 +1,3 @@
 - Hi, I’m Hafid Morales / programmer & graphic designer Atomicode's Founder
-- contact me: contacto@atomicodemx.com
+- contact me: contacto@atomicode.net
 - instagram/behance/twitter/linkedin: @amslide
